@@ -1,0 +1,32 @@
+#card {
+	margin: auto;
+	padding: 10px;
+	height: 460px;
+	width: 300px;
+	background-color: #768773;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	color: #FFFFFF;
+	font-variant: normal;
+	font-size: medium;
+	text-align: center;
+	border-radius: 15px;
+}
+#pic {
+	background-color: #E9DA51;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	background-image: url(images/head2.png);
+	background-repeat: no-repeat;
+	background-position: center 0%;
+	background-size: contain;
+	text-align: left;
+	border-radius: 100px;
+}
+#word {
+	margin: auto;
+	width: 60%;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
